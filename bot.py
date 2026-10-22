@@ -4,8 +4,8 @@ import pandas as pd
 import yfinance as yf
 
 # جلب الإعدادات السرية لبوت التلغرام
-TOKEN = os.getenv("TELEGRAM_TOKEN")
-CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
+TOKEN = os.getenv("8805409524:AAHISPXyj8Vtek5jIYeWs1DxH2EfiyjcG0w")
+CHAT_ID = os.getenv("8099576587")
 
 # قائمة موسعة بأقوى أزواج العملات الحقيقية والمباشرة في السوق المفتوح (تتجاوز عوائدها 20% دائماً)
 LIVE_FOREX_PAIRS = {
